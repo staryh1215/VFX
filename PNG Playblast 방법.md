@@ -1,0 +1,7 @@
+특정 지오메트리만 playblast 하고 싶을 때 사용
+
+
+1. 지오메트리 선택
+2. 뷰포트 에서 ![화면 캡처 2021-10-26 024142](https://user-images.githubusercontent.com/90232599/138744037-2e5cbf14-2626-484a-976c-508cdbd42198.jpg)
+선택(isolated select)
+3. Playblast 설정 Show ornaments(뷰포트의 1920x1080 글자 같은 정보들) 선택 해제 후 img / png로 설정 
